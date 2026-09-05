@@ -63,5 +63,4 @@ def main():
 
     save_all_movies(all_movies)
 
-if __name__ == '__main__':
-    main()
+
